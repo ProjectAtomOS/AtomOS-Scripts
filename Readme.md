@@ -1,4 +1,4 @@
-# Stripped11-Scripts
+# AtomOS-Scripts
 This repository hosts all scripts and tweaks used in the creation of Stripped11.
 
 These scripts are provided openly for absolute transparency, allowing advanced users and deployment engineers to review, audit, or manually apply the exact system modifications implemented within the build.
